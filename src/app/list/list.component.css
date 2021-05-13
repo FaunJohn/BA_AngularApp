@@ -1,0 +1,33 @@
+.center {
+    display: flex;
+    justify-content: center;
+  }
+  
+.center-header {
+  background-color: #50535a;
+  min-height: 100vh;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.center {
+  background-color: #50535a;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #d86d16;
+}
+
+.pic {
+  width: 50%;
+}
+  
